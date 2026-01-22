@@ -20,6 +20,3 @@ The next steps for this repository include:
 - **Data:** Python, Pandas, NumPy.
 - **Visualization:** Seaborn, Matplotlib.
 - **ML (Upcoming):** Scikit-Learn, XGBoost, Statsmodels.
-
----
-*Developed for a professional portfolio to demonstrate expertise in Data Strategy and Machine Learning.*
